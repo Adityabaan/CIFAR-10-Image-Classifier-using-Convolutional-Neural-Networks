@@ -4,7 +4,9 @@
 This project implements an image classification system using a Convolutional Neural Network (CNN) built with TensorFlow.
 The model is trained on the CIFAR-10 dataset to classify images into ten different object categories.
 
-This project was developed as the final project submission for **CS50** and focuses on understanding the end-to-end deep learning pipeline.
+This project was developed as the final project submission for **CS50x 2025** and focuses on understanding the implementation of python and end-to-end deep learning pipeline .
+
+![Image Alt](https://github.com/Adityabaan/CIFAR-10-Image-Classifier-using-Convolutional-Neural-Networks/blob/e07ca17793952487f012fc009a37342d4d480789/CS50's%20Introduction%20to%20Computer%20Science.PNG)
 
 ---
 
@@ -98,6 +100,15 @@ The model achieves reasonable classification accuracy on the CIFAR-10 test datas
 
 ## 🧑‍💻 Author
 Adityabaan Tripathy
+
+---
+
+## 📬 Connect & Feedback
+
+Questions, collaboration ideas, or feedback are always welcome!  
+- 📧 Email: [adityabaantripathy@gmail.com](mailto:adityabaantripathy@gmail.com)  
+- 🌐 LinkedIn: [Adityabaan Tripathy](https://www.linkedin.com/in/adityabaan-tripathy-6b245323b/)  
+- 🐙 GitHub: [Adityabaan Tripathy](https://github.com/Adityabaan)
 
 ---
 
